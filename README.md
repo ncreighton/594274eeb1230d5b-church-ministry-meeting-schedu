@@ -1,0 +1,2 @@
+# 594274eeb1230d5b-church-ministry-meeting-schedu
+Professional church ministry VS Code extension — without the professional price tag.  Status bar integration gives you real-time feedback without opening panels. Compatible with Remote SSH, WSL, Dev Containers, and GitHub Codespaces.  ## What's Included  - Church Ministry Meeting Scheduler And Notes Organizer — fully configured and ready to use - I
