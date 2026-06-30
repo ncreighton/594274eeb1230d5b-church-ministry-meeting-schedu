@@ -1,2 +1,45 @@
-# 594274eeb1230d5b-church-ministry-meeting-schedu
-Professional church ministry VS Code extension — without the professional price tag.  Status bar integration gives you real-time feedback without opening panels. Compatible with Remote SSH, WSL, Dev Containers, and GitHub Codespaces.  ## What's Included  - Church Ministry Meeting Scheduler And Notes Organizer — fully configured and ready to use - I
+# Church Ministry Meeting Scheduler and Notes Organizer
+
+> Vscode Extension for Church Ministry
+
+Professional church ministry VS Code extension — without the professional price tag.
+
+Status bar integration gives you real-time feedback without opening panels. Compatible with Remote SSH, WSL, Dev Containers, and GitHub Codespaces.
+
+## What's Included
+
+- Church Ministry Meeting Scheduler And Notes Organizer — fully configured and ready to...
+
+## Features
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Core language support | ✅ | ✅ |
+| Basic snippets | ✅ | ✅ |
+| Standard themes | ✅ | ✅ |
+| AI-powered completions | ❌ | ✅ |
+| Advanced refactoring | ❌ | ✅ |
+| Team sync | ❌ | ✅ |
+| Custom keybindings | ❌ | ✅ |
+| Priority bug fixes | ❌ | ✅ |
+
+## Get the Full Version
+
+Upgrade to the Pro version for **$29.99** and unlock all premium features.
+
+**[Buy Now (Stripe)](https://buy.stripe.com/8x29AT4eP3o88FG9rKcZE0q)** — Secure checkout
+
+## Installation
+
+1. Download the latest release from the [Releases page](../../releases)
+2. Extract and follow the setup instructions in the included documentation
+3. For Pro features, enter your license key after purchase
+
+## Support
+
+- Open an [issue](../../issues) for bug reports
+
+## License
+
+Free tier: MIT License for personal and commercial use.
+Pro tier: Commercial license included with purchase.
